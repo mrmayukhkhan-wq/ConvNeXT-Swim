@@ -1,9 +1,9 @@
 === Environment Information ===
 OS: Windows 10
-Python version: 3.10.11
+Python version: 3.11.9
 PyTorch version: 2.5.1+cu121
 CUDA availability: True
 CUDA version: 12.1
-GPU Name: NVIDIA GeForce RTX 3050 6GB Laptop GPU
+GPU Name: NVIDIA RTX 4000 Ada Generation
 GPU Count: 1
-timm version: 1.0.30
+timm version: 1.0.31

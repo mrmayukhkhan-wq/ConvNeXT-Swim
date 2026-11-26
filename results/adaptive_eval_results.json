@@ -1,13 +1,11 @@
 {
     "Model": "Adaptive routing",
     "Dataset": "COCO val2017",
-    "Images evaluated": 5000,
-    "ImageNet normalization at eval": true,
-    "AP": 0.55,
-    "AP50": 1.64,
-    "AP75": 0.26,
-    "APs": 0.13,
-    "APm": 0.56,
-    "APl": 0.93,
-    "Total Predictions": 495200
+    "AP": 10.94,
+    "AP50": 19.31,
+    "AP75": 10.93,
+    "APs": 3.27,
+    "APm": 13.87,
+    "APl": 17.28,
+    "Total Predictions": 494708
 }

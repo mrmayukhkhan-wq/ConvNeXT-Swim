@@ -1,13 +1,11 @@
 {
     "Model": "Fixed Swin P4",
     "Dataset": "COCO val2017",
-    "Images evaluated": 5000,
-    "ImageNet normalization at eval": true,
-    "AP": 1.66,
-    "AP50": 4.14,
-    "AP75": 1.06,
-    "APs": 0.45,
-    "APm": 2.32,
-    "APl": 2.89,
-    "Total Predictions": 495200
+    "AP": 10.59,
+    "AP50": 18.55,
+    "AP75": 10.8,
+    "APs": 3.68,
+    "APm": 13.89,
+    "APl": 15.99,
+    "Total Predictions": 494819
 }
